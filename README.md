@@ -1,2 +1,2 @@
-## FlipMyFile
-#Java Project for file conversion
+# FlipMyFile
+Java Project for file conversion
